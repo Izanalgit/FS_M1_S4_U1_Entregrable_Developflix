@@ -14,5 +14,17 @@ h2 {
   font-size: 1.5rem;
   margin-bottom: 10px;
 }
+.genero{
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+}
 
+.pelicula{
+  display: flex;
+  flex-flow: column;
+  flex-wrap: wrap;
 
+  margin: auto 1%;
+  max-width: min-content;
+}
